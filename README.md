@@ -1,5 +1,3 @@
-# Shorouq-hub-Gamal
-My personal profile
 # Hey there, I'm [Shorouq Gamal](https://shorouqgamal.vercel.app/) 👋
 
 **Full-stack Web Developer · Graduate · Coffee Lover ☕**
