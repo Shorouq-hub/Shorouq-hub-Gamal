@@ -45,8 +45,4 @@ I continuously strive to improve my skills and contribute to impactful teams.
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.canva.com/design/DAGwzzVgdqg/SnWIEIa3z6Dkwl2g9qbxQg/view?utm_content=DAGwzzVgdqg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h53ce9f46c8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yousefdergham)
-
 </div>
