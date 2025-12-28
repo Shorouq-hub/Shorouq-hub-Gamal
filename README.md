@@ -37,7 +37,6 @@ I continuously strive to improve my skills and contribute to impactful teams.
   <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-
 ## 🔗 Connect with Me
 
 <div align="center">
